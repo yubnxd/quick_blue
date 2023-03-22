@@ -1,2 +1,6 @@
 # Flutter/Dart/Pub related
 pubspec.lock
+.gitignore
+modules.xml
+quick_blue.iml
+vcs.xml
